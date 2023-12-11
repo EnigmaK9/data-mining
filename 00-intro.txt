@@ -1,0 +1,9 @@
+Data mining
+Data mining is defined as procedure of extracting information from huge sets of
+data
+also defined as mining knowledge from data
+what types of data can be mined?
+three types: database, datawarehouse, transactional
+database data (RDBMS):
+set of tables - has rows and columns
+
