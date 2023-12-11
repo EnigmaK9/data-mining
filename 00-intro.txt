@@ -4,6 +4,11 @@ data
 also defined as mining knowledge from data
 what types of data can be mined?
 three types: database, datawarehouse, transactional
-database data (RDBMS):
-set of tables - has rows and columns
+database data (RDBMS): Relational database management system
+-> set of tables - has rows and columns
+                       tables   attributes
+while mining databases, we can search for trends or data patterns
+example: 1. Analysis customer data to predict the credit
+- risk of new customers based on previus data
+- analysing sales data - (any deviations)
 
