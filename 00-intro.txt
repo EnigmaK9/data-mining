@@ -11,4 +11,10 @@ while mining databases, we can search for trends or data patterns
 example: 1. Analysis customer data to predict the credit
 - risk of new customers based on previus data
 - analysing sales data - (any deviations)
-
+collection of data integrated from different sources with querying and decision
+making on data
+In data warehouse, data is stored in multidimensional structure (datacube) where
+each dimension is each attribute.
+data sources goes into data warehouse to do querying and analysis to get stored
+in a data cube. time and location, with itemtype produces a unit of production
+time.
